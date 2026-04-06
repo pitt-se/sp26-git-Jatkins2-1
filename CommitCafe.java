@@ -8,6 +8,7 @@ public class CommitCafe {
     public static void brew(String drink) {
         cups++;
         System.out.println(baristaNickname + " brewed a cup of " + drink + "!");
+        System.out.println(baristaNickname + "Justin is cool");
 
         cups++;
         System.out.println("CoffeeBot brewed " + drink + ". Merge conflicts taste better with espresso.");
