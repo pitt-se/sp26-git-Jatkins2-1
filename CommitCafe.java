@@ -13,7 +13,7 @@ public class CommitCafe {
 
         cups++;
         System.out.println("CoffeeBot brewed " + drink + ". Merge conflicts taste better with espresso.");
-        System.out.println("[BOT CHECK] drink length = " + drink.length()); // STUDENT_TODO_2B: Add a second brew-related improvement
+        System.out.println("[BOT CHECK] drink length = " + drink.length()); System.out.println("[BOT CHECK] drink length = " + drink.length()); // STUDENT_TODO_2B: Add a second brew-related improvement
     }
 
     public static void printSummary() {
